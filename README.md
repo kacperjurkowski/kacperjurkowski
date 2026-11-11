@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="banner"/>
+  <img src="bannerv1.jpg" width="100%" alt="banner"/>
 </p>
 
 <h2 align="center">Hi, I'm Kacper Jurkowski</h2>
